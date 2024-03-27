@@ -3990,6 +3990,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/kjam_walksnail_hd_osd_gps.txt",
+      "hash": "a7ba1222a583ffed5883a4914c5c60bd0048997f3bcb3fab91e350f2c59da86f",
+      "title": "kjam walksnail hd osd gps",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "WALKSNAIL",
+        "HD",
+        "HDOSD",
+        "GPS"
+      ],
+      "author": "Kevin Jamieson",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
       "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
       "title": "QuadMcFly - DJI HD OSD",
