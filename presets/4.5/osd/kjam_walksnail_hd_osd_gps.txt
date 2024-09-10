@@ -1,9 +1,10 @@
 #$ TITLE: kjam walksnail hd osd gps
+#$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: WALKSNAIL, HD, HDOSD, GPS
-#$ AUTHOR: Kevin Jamieson
+#$ AUTHOR: Kevin Jamieson 
 
 set osd_units = METRIC
 set osd_warn_bitmask = 8191
@@ -107,6 +108,7 @@ set osd_profile = 1
 set osd_profile_1_name = -
 set osd_profile_2_name = -
 set osd_profile_3_name = -
+set osd_gps_sats_show_hdop = OFF
 set osd_displayport_device = MSP
 set osd_rcchannels = -1,-1,-1,-1
 set osd_camera_frame_width = 24

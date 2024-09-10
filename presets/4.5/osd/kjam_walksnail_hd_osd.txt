@@ -1,9 +1,10 @@
 #$ TITLE: kjam walksnail hd osd
+#$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: WALKSNAIL, HD, HDOSD
-#$ AUTHOR: Kevin Jamieson
+#$ AUTHOR: Kevin Jamieson 
 
 set osd_units = METRIC
 set osd_warn_bitmask = 8191
